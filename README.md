@@ -1,5 +1,7 @@
 # Night-Shift-Navigator
-Discord Bot - ChatGPT 4.0 Math Tutor
+Discord Bot - ChatGPT 4.0 Tutor
+
+This bot is only as good as the prompt created. Make sure to spend some time and really figure out what you would like the product to do!
 
 Make sure to have a GPT 4 account and pay for your subscription to ChatGPT
 
