@@ -1,5 +1,5 @@
 # Night-Shift-Navigator
-"Midnight Maestro: Your Late Night Learning Companion"
+"Midnight Maestro: Your Late Night Learning Companion" 
 Discord Bot - ChatGPT 4.0 Tutor
 
 This bot is only as good as the prompt created. Make sure to spend some time and really figure out what you would like the product to do!
